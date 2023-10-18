@@ -1,13 +1,13 @@
 # Rapid Introduction to Tailwind CSS
 
 ## Each section has an exercise to test what you learned here ##
-## Introduction (10 minutes)
+## Introduction
 
 - Welcome and course overview.
 - Explain the benefits of Tailwind CSS.
 - Pre-requisites: Basic HTML and CSS knowledge.
 
-## Section 1: Getting Started (20 minutes)
+## Section 1: Getting Started
 
 ### 1.1 Setting Up Tailwind CSS
 
@@ -23,7 +23,7 @@
 - Demonstration of how utility classes work.
 - **Exercise**: Create a simple div and apply various utility classes for styling.
 
-## Section 2: Building a Simple Page (30 minutes)
+## Section 2: Building a Simple Page
 
 ### 2.1 Creating a Header
 
@@ -60,7 +60,7 @@
 - Making text responsive.
 - **Example**: Create responsive text with different font sizes.
 
-## Section 4: Customizing Tailwind CSS (20 minutes)
+## Section 4: Customizing Tailwind CSS
 
 ### 4.1 Configuring Tailwind
 
@@ -75,7 +75,7 @@
 - Creating custom utility classes for project-specific styles.
 - **Example**: Define and use custom classes for unique styling needs.
 
-## Section 5: Practical Examples (30 minutes)
+## Section 5: Practical Examples
 
 ### 5.1 Card Component
 
@@ -98,23 +98,23 @@
 </button>``
 ![image](https://user-images.githubusercontent.com/72024056/276264486-4cab22fe-bff7-4610-91e1-ed2d5272e442.png)
 
-## Section 6: Optimization and Production (10 minutes)
+## Section 6: Optimization and Production
 
 - Try to make a relevant and responsive design : 
 ![image](https://cwh-full-next-space.fra1.digitaloceanspaces.com/videos/tailwind-course-in-hindi-7/77ae8fa3ae9fd8a699af8cf5b76b7fda.webp)
 
-## Competition: Best Login Page Design (15 minutes)
+## Competition: Best Login Page Design
 
 ![image](https://user-images.githubusercontent.com/72024056/276262373-7cc2c6ec-4793-4041-81b3-4bb2d8af0b35.png)
 
-## Q&A and Conclusion (15 minutes)
+## Q&A and Conclusion
 
 - Answering any questions from participants.
 - Review key takeaways.
 - Announce the winner of the design competition (if time allows).
 - Encourage further learning resources.
 
-## Additional Resources (5 minutes)
+## Additional Resources
 
 - Helped me make this workshop :
     - https://youtu.be/mr15Xzb1Ook?si=W_1rk1QaJfNMzYJO
