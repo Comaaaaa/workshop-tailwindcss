@@ -65,6 +65,8 @@
 ### 4.1 Configuring Tailwind
 
 - Briefly introduce the `tailwind.config.js` file.
+- Doc right here : 
+    https://tailwindcss.com/docs/configuration
 - Changing colors, fonts, and other default settings.
 - **Example**: Customize the default color palette.
 
